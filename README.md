@@ -1,1 +1,1 @@
-# Metabolon analysis committed to match analysis is manuscript submitted to JCI
+# Metabolon analysis committed to match analysis in submitted manuscript
